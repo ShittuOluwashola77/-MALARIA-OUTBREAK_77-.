@@ -8,5 +8,5 @@ I presented a comprehensive dashboard on the prevalence of malaria outbreaks in 
 
 The second visualization illustrates the relationship between humidity and malaria outbreaks. A significant 50.3% of respondents indicated that high humidity is a factor contributing to malaria, while 49.97% believe that low humidity also plays a role. This reinforces the conclusion that humidity is a primary driver of malaria outbreaks.
 
-## Read More
+## Read More :green_book:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/posts/shittu-oluwashola-b15410350_malaria-continues-to-be-a-significant-cause-activity-7302014077332029440-szCu?utm_source=share&utm_medium=member_android&rcm=ACoAAFegR0EB31k7tekqG4HW7PxyqVB3kr3O8zU)
