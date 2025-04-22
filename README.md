@@ -17,3 +17,6 @@ The fifth visualization indicates that 50.17% of respondents acknowledged the pr
 Finally, the sixth visualization reveals that 50.57% of respondents have vegetation in their environment, while 49.43% do not. This correlation confirms that the presence of vegetation in an area with stagnant water or where people live contributes to the occurrence of malaria outbreaks.
 
 In conclusion, while percentages show slight variations, the overwhelming trends in this data underscore the critical factors driving malaria outbreaks in Nigeria.
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/posts/shittu-oluwashola-b15410350_malaria-continues-to-be-a-significant-cause-activity-7302014077332029440-szCu?utm_source=share&utm_medium=member_android&rcm=ACoAAFegR0EB31k7tekqG4HW7PxyqVB3kr3O8zU)
