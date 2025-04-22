@@ -8,15 +8,5 @@ I presented a comprehensive dashboard on the prevalence of malaria outbreaks in 
 
 The second visualization illustrates the relationship between humidity and malaria outbreaks. A significant 50.3% of respondents indicated that high humidity is a factor contributing to malaria, while 49.97% believe that low humidity also plays a role. This reinforces the conclusion that humidity is a primary driver of malaria outbreaks.
 
-The third visualization highlights water quality access among respondents. Here, 50.54% confirmed their access to good water, while 49.46% reported accessing poor-quality water.
-
-In the fourth visualization, we analyzed malaria outbreaks by mosquito species. The data shows that Culex Quinquiefaciatus comprises 33.16%, Anopheles gambiae represents 33.26%, and Aedes Aegypti accounts for 33.57%. All these species are significant carriers of malaria.
-
-The fifth visualization indicates that 50.17% of respondents acknowledged the presence of stagnant water in their surroundings, while 49.83% claimed there was no stagnant water. This reinforces the understanding that stagnant water is a crucial factor in the outbreak of malaria.
-
-Finally, the sixth visualization reveals that 50.57% of respondents have vegetation in their environment, while 49.43% do not. This correlation confirms that the presence of vegetation in an area with stagnant water or where people live contributes to the occurrence of malaria outbreaks.
-
-In conclusion, while percentages show slight variations, the overwhelming trends in this data underscore the critical factors driving malaria outbreaks in Nigeria.
-
-## Connect with Me
+## Read More
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/posts/shittu-oluwashola-b15410350_malaria-continues-to-be-a-significant-cause-activity-7302014077332029440-szCu?utm_source=share&utm_medium=member_android&rcm=ACoAAFegR0EB31k7tekqG4HW7PxyqVB3kr3O8zU)
