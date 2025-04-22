@@ -8,7 +8,7 @@ I presented a comprehensive dashboard on the prevalence of malaria outbreaks in 
 
 The second visualization illustrates the relationship between humidity and malaria outbreaks. A significant 50.3% of respondents indicated that high humidity is a factor contributing to malaria, while 49.97% believe that low humidity also plays a role. This reinforces the conclusion that humidity is a primary driver of malaria outbreaks.
 
-The third visualization highlights water quality access among respondents. Here, 50.54% confirmed their access to good water, while 49.46% reported accessing poor-quality water. 
+The third visualization highlights water quality access among respondents. Here, 50.54% confirmed their access to good water, while 49.46% reported accessing poor-quality water.
 
 In the fourth visualization, we analyzed malaria outbreaks by mosquito species. The data shows that Culex Quinquiefaciatus comprises 33.16%, Anopheles gambiae represents 33.26%, and Aedes Aegypti accounts for 33.57%. All these species are significant carriers of malaria.
 
