@@ -1,6 +1,7 @@
 # PREVALENCE OF MALARIA OUTBREAK IN NIGERIA :test_tube:
 ![ShittuOluwashola77](https://github.com/ShittuOluwashola77/-MALARIA-OUTBREAK_77-.![WhatsApp Image 2025-04-22 at 10 48 26](https://github.com/user-attachments/assets/656f54d6-b8be-4734-9e1c-d10849593010)
 )
+
 Malaria continues to be a significant cause of death in Nigeria, affecting individuals of all ages, from children to adults. The outbreak of malaria is influenced by various factors, including temperature, humidity, stagnant water, and an unkempt environment.
 
 I presented a comprehensive dashboard on the prevalence of malaria outbreaks in Nigeria. The first visualization on the left side of your screen indicates that malaria outbreaks are more common in rural areas compared to urban areas. In the rural regions, we recorded 50.6% of malaria outbreaks, whereas urban regions accounted for 49.4%. This data strongly suggests that malaria is more prevalent in rural areas, even though it impacts both urban and rural populations alike.
